@@ -1,0 +1,11 @@
+.total-expense {
+    text-align: left;
+}
+
+.total-expense-amount {
+    font-size: 3em;
+}
+
+.month {
+    font-size: 0.5em;
+}

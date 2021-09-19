@@ -1,0 +1,21 @@
+
+.categorized-expense {
+    display: flex;
+    text-align: left;
+    font-size: 0.7em;
+    padding: 10px 0;
+}
+
+.categorized-expense .icon {
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.categorized-expense .details {
+    width: 100%;
+}
+
+.progress {
+    margin: 10px 0;
+    background-color:  #9575CD;
+}
