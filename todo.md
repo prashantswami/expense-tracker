@@ -5,12 +5,20 @@
 - Add Expense modal
 - Calculate expense - make it work
 - Show month-wise expense
+- Redux
 - Save it to local storage
 - Design
   - Check fonts
 - Global settings page
   - Add Categories
   - Currency setup
+- CI/CD
+- Linting
+- Unit Testing
+
+## v1.5.0
+
+- Typescript support
 
 ## v2.0.0
 
