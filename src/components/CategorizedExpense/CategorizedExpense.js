@@ -1,10 +1,6 @@
 import React from "react";
 import './CategorizedExpense.css'
 import LinearProgress from '@mui/material/LinearProgress';
-import CategoryIcon1 from '@mui/icons-material/Brightness1Outlined';
-import CategoryIcon2 from '@mui/icons-material/CategoryOutlined';
-import CategoryIcon3 from '@mui/icons-material/FileCopyRounded';
-import CategoryIcon4 from '@mui/icons-material/RecommendRounded';
 import CategoryIcon from '@mui/icons-material/LocalFloristRounded';
 
 
