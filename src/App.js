@@ -4,7 +4,7 @@ import { CategorizedExpense } from './components/CategorizedExpense/CategorizedE
 import { createTheme } from '@mui/material/styles';
 import { ThemeProvider } from '@emotion/react';
 import React from 'react';
-import AddExpense from './components/AddExpense/AddExpense';
+import {AddExpense} from './components/AddExpense/AddExpense';
 
 
 const theme = createTheme({
